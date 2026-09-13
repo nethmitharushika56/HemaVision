@@ -1,0 +1,13 @@
+image_path,ground_truth,prediction,confidence,correct
+..\data\raw\dataset2-master\dataset2-master\images\TEST\EOSINOPHIL\_9_1242.jpeg,EOSINOPHIL,EOSINOPHIL,0.876922,True
+..\data\raw\dataset2-master\dataset2-master\images\TEST\EOSINOPHIL\_10_7638.jpeg,EOSINOPHIL,EOSINOPHIL,0.9533044,True
+..\data\raw\dataset2-master\dataset2-master\images\TEST\EOSINOPHIL\_11_6757.jpeg,EOSINOPHIL,LYMPHOCYTE,0.52493775,False
+..\data\raw\dataset2-master\dataset2-master\images\TEST\LYMPHOCYTE\_1_6162.jpeg,LYMPHOCYTE,LYMPHOCYTE,0.43769452,True
+..\data\raw\dataset2-master\dataset2-master\images\TEST\LYMPHOCYTE\_4_8663.jpeg,LYMPHOCYTE,LYMPHOCYTE,0.996642,True
+..\data\raw\dataset2-master\dataset2-master\images\TEST\LYMPHOCYTE\_0_1740.jpeg,LYMPHOCYTE,NEUTROPHIL,0.5975468,False
+..\data\raw\dataset2-master\dataset2-master\images\TEST\MONOCYTE\_2_8937.jpeg,MONOCYTE,MONOCYTE,0.99973994,True
+..\data\raw\dataset2-master\dataset2-master\images\TEST\MONOCYTE\_2_7559.jpeg,MONOCYTE,MONOCYTE,0.9999976,True
+..\data\raw\dataset2-master\dataset2-master\images\TEST\MONOCYTE\_1_2500.jpeg,MONOCYTE,NEUTROPHIL,0.5245654,False
+..\data\raw\dataset2-master\dataset2-master\images\TEST\NEUTROPHIL\_8_9281.jpeg,NEUTROPHIL,NEUTROPHIL,0.99917847,True
+..\data\raw\dataset2-master\dataset2-master\images\TEST\NEUTROPHIL\_0_5667.jpeg,NEUTROPHIL,NEUTROPHIL,0.99957556,True
+..\data\raw\dataset2-master\dataset2-master\images\TEST\NEUTROPHIL\_2_24.jpeg,NEUTROPHIL,EOSINOPHIL,0.99175125,False

@@ -1,0 +1,11 @@
+{
+    "test_images": 2487,
+    "test_loss": 0.9043663707803328,
+    "accuracy": 0.7933252915158826,
+    "macro_precision": 0.8300691803718684,
+    "macro_recall": 0.793223090564745,
+    "macro_f1": 0.7969850120193946,
+    "weighted_f1": 0.7968265083052911,
+    "validation_accuracy": 0.9777317452097359,
+    "split_method": "group-aware train-validation split"
+}
